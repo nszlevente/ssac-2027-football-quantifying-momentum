@@ -17,7 +17,7 @@ The event data come from the [StatsBomb Open Data repository](https://github.com
 
 Run `00_download_standard_data.ipynb` to download and cache standard event data.
 
-The notebooks store local files in:
+The notebook stores local files in:
 
 - `sb_offline_data/`
 

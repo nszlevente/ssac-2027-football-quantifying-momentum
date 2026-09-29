@@ -24,8 +24,6 @@ The notebooks are organised into a standard event-level pipeline and a PDE-based
 
 The analysis uses open football event data made available by StatsBomb. The data are available from the [StatsBomb Open Data repository](https://github.com/statsbomb/open-data). The download notebook retrieves the data and stores a local offline copy in `sb_offline_data/`.
 
-Please follow the StatsBomb Open Data terms and attribution requirements when reusing the data.
-
 ## Output structure
 
 All generated artefacts are grouped by analysis family and processing stage.

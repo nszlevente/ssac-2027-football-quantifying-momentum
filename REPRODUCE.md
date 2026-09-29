@@ -11,46 +11,68 @@ This guide describes how to recreate the analysis outputs from a clean local env
 
 Install the Python dependencies described in `requirements.txt`:
 
-## 2. Data acquisition
+## 2. Data source and acquisition
 
-Run `00_download_standard_data.ipynb` to download and cache standard event data. Run `12_download_360_data.ipynb` to download and cache StatsBomb 360 data.
+The event data come from the [StatsBomb Open Data repository](https://github.com/statsbomb/open-data).
+
+Run `00_download_standard_data.ipynb` to download and cache standard event data.
 
 The notebooks store local files in:
 
 - `sb_offline_data/`
-- `sb_offline_360_data/`
 
 ## 3. Pipeline order
 
-Run the notebooks in this order:
+Run the notebooks from the repository root. The `MODE` cells in notebooks `03` and `04` select either `PDE` or `PFE`; run those notebooks once for each event family when both sets of results are required.
+
+### Common preparation
 
 1. `00_download_standard_data.ipynb`
-2. `01_detect_pde_events.ipynb`
-3. `02_detect_pfe_events.ipynb`
-4. `03_calculate_behavioural_metrics.ipynb`
-5. `04_find_cross_match_controls.ipynb`
-6. `05_detect_behavioural_change.ipynb`
-7. `06_extract_individual_events.ipynb`
-8. `07_calculate_individual_metrics.ipynb`
-9. `08_find_individual_controls.ipynb`
-10. `09_analyse_contagion.ipynb`
-11. `10_analyse_individual_change.ipynb`
-12. `11_fit_mixed_effects_model.ipynb`
-13. `12_download_360_data.ipynb`
-14. `13_calculate_spatial_metrics.ipynb`
-15. `14_analyse_spatial_change.ipynb`
-16. `15_analyse_severity.ipynb`
-17. `16_build_predictive_models.ipynb`
+
+### PDE branch
+
+Run this branch first if individual-level analyses are required:
+
+1. `01_detect_pde_events.ipynb`
+2. `03_calculate_behavioural_metrics.ipynb` with `MODE = 'PDE'`
+3. `04_find_cross_match_controls.ipynb` with `MODE = 'PDE'`
+4. `05_detect_behavioural_change.ipynb` with `MODE = 'PDE'`
+
+The PDE branch must finish through notebook `05` before starting the individual branch. Notebook `12_analyse_severity.ipynb` depends on the PDE metric and control outputs, so it should be run after notebook `04` and before or after the individual branch.
+
+### PFE branch
+
+Run this branch independently after the common preparation:
+
+1. `02_detect_pfe_events.ipynb`
+2. `03_calculate_behavioural_metrics.ipynb` with `MODE = 'PFE'`
+3. `04_find_cross_match_controls.ipynb` with `MODE = 'PFE'`
+4. `05_detect_behavioural_change.ipynb` with `MODE = 'PFE'`
+
+### Individual branch
+
+Run only after the PDE branch has produced the standard PDE catalogues and metric-enriched outputs:
+
+1. `06_extract_individual_events.ipynb`
+2. `07_calculate_individual_metrics.ipynb`
+3. `08_find_individual_controls.ipynb`
+4. `09_analyse_contagion.ipynb`
+5. `10_analyse_individual_change.ipynb`
+6. `11_fit_mixed_effects_model.ipynb`
 
 ## 4. Expected outputs
 
 The pipeline writes derived tables and figures under `output/`:
 
-- `output/pde/`: PDE catalogues, controls, and analysis results
-- `output/pfe/`: PFE catalogues and controls
-- `output/individual/`: protagonist, player-control, contagion, and mixed-effects results
-- `output/pde360/`: 360-degree catalogues, controls, and spatial analysis results
-- `output/prediction/`: predictive-model summaries, figures, and tuning results
+- `output/pde/catalogue/`: raw, filtered, and metric-enriched PDE event tables
+- `output/pde/controls/`: PDE cross-match controls and metric-enriched controls
+- `output/pde/analysis/`: PDE behavioural-change figures and severity results
+- `output/pfe/catalogue/`: raw, filtered, and metric-enriched PFE event tables
+- `output/pfe/controls/`: PFE cross-match controls and metric-enriched controls
+- `output/pfe/analysis/`: PFE behavioural-change figures
+- `output/individual/catalogue/`: raw and final individual protagonist catalogues
+- `output/individual/controls/`: individual control catalogues before and after metric enrichment
+- `output/individual/analysis/`: contagion, coverage, individual-change, and mixed-effects results
 
 The output tables use the following conventions:
 

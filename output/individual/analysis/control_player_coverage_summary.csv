@@ -1,0 +1,1344 @@
+﻿player_id,event_type,n_occurrences,player_position
+2966.0,Wasted Turnover,9,Right Midfield
+2968.0,Wasted Turnover,3,Center Forward
+2988.0,Wasted Turnover,7,Left Wing
+3023.0,Wasted Turnover,4,Left Wing
+3037.0,Wasted Turnover,4,Left Defensive Midfield
+3037.0,Yellow Card,8,Right Defensive Midfield
+3041.0,Yellow Card,4,Left Center Back
+3043.0,Big Miss,3,Center Attacking Midfield
+3043.0,Selfish Shot,3,Center Attacking Midfield
+3043.0,Wasted Turnover,10,Center Attacking Midfield
+3043.0,Yellow Card,4,Center Attacking Midfield
+3044.0,Wasted Turnover,3,Right Center Back
+3044.0,Yellow Card,7,Right Center Back
+3049.0,Big Miss,4,Right Midfield
+3049.0,Wasted Turnover,11,Right Midfield
+3052.0,Wasted Turnover,5,Right Back
+3053.0,Big Miss,3,Right Midfield
+3053.0,Wasted Turnover,13,Right Midfield
+3054.0,Wasted Turnover,6,Right Defensive Midfield
+3054.0,Yellow Card,4,Left Center Midfield
+3057.0,Wasted Turnover,4,Right Center Midfield
+3057.0,Yellow Card,4,Right Defensive Midfield
+3058.0,Wasted Turnover,6,Left Center Forward
+3062.0,Wasted Turnover,6,Left Back
+3062.0,Yellow Card,4,Left Back
+3063.0,Yellow Card,4,Right Back
+3064.0,Wasted Turnover,6,Center Attacking Midfield
+3065.0,Wasted Turnover,4,Left Back
+3076.0,Wasted Turnover,5,Right Center Forward
+3076.0,Yellow Card,4,Center Forward
+3077.0,Yellow Card,8,Left Center Back
+3081.0,Yellow Card,5,Left Center Back
+3083.0,Wasted Turnover,5,Left Wing
+3085.0,Yellow Card,3,Center Forward
+3087.0,Selfish Shot,3,Right Defensive Midfield
+3087.0,Wasted Turnover,6,Right Center Midfield
+3087.0,Yellow Card,6,Right Center Midfield
+3089.0,Big Miss,3,Right Wing
+3089.0,Wasted Turnover,8,Right Wing
+3091.0,Wasted Turnover,18,Right Wing
+3091.0,Yellow Card,8,Right Midfield
+3092.0,Big Miss,3,Left Wing
+3092.0,Wasted Turnover,3,Center Forward
+3094.0,Wasted Turnover,8,Center Attacking Midfield
+3097.0,Wasted Turnover,11,Right Center Midfield
+3097.0,Yellow Card,4,Right Center Midfield
+3098.0,Wasted Turnover,5,Left Center Midfield
+3098.0,Yellow Card,7,Right Defensive Midfield
+3160.0,Yellow Card,4,Right Defensive Midfield
+3164.0,Yellow Card,3,Right Center Back
+3186.0,Wasted Turnover,6,Left Wing
+3186.0,Yellow Card,8,Left Midfield
+3196.0,Wasted Turnover,3,Left Midfield
+3196.0,Yellow Card,3,Left Midfield
+3205.0,Wasted Turnover,7,Right Back
+3205.0,Yellow Card,7,Right Back
+3221.0,Wasted Turnover,3,Left Back
+3233.0,Wasted Turnover,6,Left Center Forward
+3237.0,Big Miss,4,Right Center Forward
+3237.0,Wasted Turnover,9,Center Forward
+3244.0,Yellow Card,8,Right Center Back
+3253.0,Yellow Card,3,Right Center Back
+3263.0,Yellow Card,7,Right Center Back
+3265.0,Big Miss,3,Center Forward
+3265.0,Wasted Turnover,8,Center Forward
+3270.0,Yellow Card,5,Right Back
+3272.0,Wasted Turnover,3,Left Center Midfield
+3272.0,Yellow Card,4,Left Center Midfield
+3275.0,Wasted Turnover,6,Left Wing
+3277.0,Wasted Turnover,7,Right Center Midfield
+3277.0,Yellow Card,5,Right Center Midfield
+3286.0,Wasted Turnover,4,Right Midfield
+3286.0,Yellow Card,5,Right Midfield
+3288.0,Yellow Card,3,Left Center Back
+3289.0,Big Miss,3,Center Forward
+3289.0,Wasted Turnover,5,Left Center Forward
+3289.0,Yellow Card,5,Center Forward
+3292.0,Yellow Card,5,Right Defensive Midfield
+3293.0,Selfish Shot,4,Right Midfield
+3293.0,Wasted Turnover,11,Right Wing
+3293.0,Yellow Card,4,Right Wing
+3294.0,Big Miss,4,Center Attacking Midfield
+3294.0,Wasted Turnover,9,Right Wing
+3294.0,Yellow Card,4,Right Wing
+3296.0,Wasted Turnover,4,Center Forward
+3297.0,Wasted Turnover,11,Right Wing
+3300.0,Yellow Card,4,Right Back
+3306.0,Wasted Turnover,5,Left Back
+3306.0,Yellow Card,3,Left Back
+3307.0,Wasted Turnover,12,Left Midfield
+3307.0,Yellow Card,6,Left Midfield
+3309.0,Wasted Turnover,3,Right Center Back
+3309.0,Yellow Card,4,Right Center Back
+3311.0,Wasted Turnover,3,Left Center Back
+3311.0,Yellow Card,8,Left Center Back
+3321.0,Yellow Card,9,Left Back
+3325.0,Big Miss,3,Left Wing
+3325.0,Wasted Turnover,5,Left Wing
+3325.0,Yellow Card,4,Left Wing
+3328.0,Big Miss,3,Left Center Midfield
+3328.0,Wasted Turnover,3,Right Defensive Midfield
+3328.0,Yellow Card,3,Left Defensive Midfield
+3337.0,Wasted Turnover,9,Center Forward
+3337.0,Yellow Card,6,Center Forward
+3340.0,Yellow Card,4,Right Back
+3341.0,Yellow Card,7,Left Center Back
+3343.0,Wasted Turnover,7,Left Defensive Midfield
+3343.0,Yellow Card,6,Right Center Midfield
+3344.0,Wasted Turnover,10,Center Defensive Midfield
+3344.0,Yellow Card,14,Center Defensive Midfield
+3345.0,Wasted Turnover,6,Left Back
+3345.0,Yellow Card,7,Left Back
+3346.0,Big Miss,4,Right Center Forward
+3346.0,Wasted Turnover,5,Left Center Forward
+3346.0,Yellow Card,6,Left Center Forward
+3347.0,Big Miss,5,Right Wing
+3347.0,Wasted Turnover,12,Right Wing
+3349.0,Wasted Turnover,6,Right Wing
+3349.0,Yellow Card,7,Right Back
+3381.0,Wasted Turnover,3,Left Center Midfield
+3381.0,Yellow Card,7,Left Center Midfield
+3389.0,Wasted Turnover,3,Left Center Back
+3389.0,Yellow Card,5,Left Center Back
+3394.0,Yellow Card,7,Left Center Back
+3407.0,Yellow Card,8,Right Center Back
+3436.0,Wasted Turnover,7,Left Defensive Midfield
+3436.0,Yellow Card,6,Left Defensive Midfield
+3437.0,Selfish Shot,4,Right Center Midfield
+3437.0,Yellow Card,8,Left Defensive Midfield
+3443.0,Wasted Turnover,7,Right Back
+3449.0,Wasted Turnover,5,Right Wing
+3449.0,Yellow Card,3,Left Wing
+3450.0,Wasted Turnover,11,Left Wing
+3450.0,Yellow Card,4,Right Center Forward
+3454.0,Big Miss,3,Right Center Forward
+3454.0,Wasted Turnover,9,Left Center Forward
+3454.0,Yellow Card,7,Right Center Forward
+3456.0,Yellow Card,5,Right Center Back
+3462.0,Wasted Turnover,5,Right Defensive Midfield
+3462.0,Yellow Card,3,Right Defensive Midfield
+3464.0,Wasted Turnover,3,Left Defensive Midfield
+3464.0,Yellow Card,6,Center Attacking Midfield
+3467.0,Yellow Card,7,Left Back
+3471.0,Yellow Card,6,Left Center Back
+3472.0,Big Miss,3,Right Wing
+3472.0,Wasted Turnover,11,Right Wing
+3472.0,Yellow Card,4,Right Wing
+3473.0,Big Miss,3,Right Defensive Midfield
+3473.0,Selfish Shot,3,Right Defensive Midfield
+3473.0,Wasted Turnover,8,Right Midfield
+3473.0,Yellow Card,5,Right Center Midfield
+3475.0,Yellow Card,4,Right Center Back
+3478.0,Wasted Turnover,8,Right Center Midfield
+3478.0,Yellow Card,5,Right Defensive Midfield
+3480.0,Yellow Card,9,Left Center Back
+3483.0,Yellow Card,6,Left Center Back
+3486.0,Big Miss,4,Center Forward
+3486.0,Wasted Turnover,3,Center Forward
+3486.0,Yellow Card,3,Center Forward
+3490.0,Wasted Turnover,5,Right Defensive Midfield
+3491.0,Wasted Turnover,9,Left Wing
+3491.0,Yellow Card,4,Center Attacking Midfield
+3493.0,Wasted Turnover,11,Right Center Midfield
+3493.0,Yellow Card,9,Right Center Back
+3496.0,Big Miss,3,Center Forward
+3496.0,Wasted Turnover,17,Center Attacking Midfield
+3496.0,Yellow Card,3,Center Attacking Midfield
+3497.0,Wasted Turnover,5,Left Wing
+3497.0,Yellow Card,4,Right Defensive Midfield
+3498.0,Wasted Turnover,4,Left Back
+3498.0,Yellow Card,4,Left Back
+3499.0,Wasted Turnover,4,Right Midfield
+3500.0,Wasted Turnover,3,Left Defensive Midfield
+3500.0,Yellow Card,10,Left Defensive Midfield
+3501.0,Selfish Shot,4,Left Wing
+3501.0,Wasted Turnover,17,Left Midfield
+3501.0,Yellow Card,6,Left Center Midfield
+3502.0,Yellow Card,9,Right Center Back
+3507.0,Wasted Turnover,13,Right Wing
+3507.0,Yellow Card,6,Right Wing
+3510.0,Wasted Turnover,4,Left Back
+3511.0,Wasted Turnover,8,Right Back
+3511.0,Yellow Card,7,Right Back
+3514.0,Wasted Turnover,11,Left Midfield
+3514.0,Yellow Card,4,Left Midfield
+3515.0,Wasted Turnover,12,Left Wing Back
+3515.0,Yellow Card,4,Left Back
+3517.0,Selfish Shot,3,Left Center Midfield
+3517.0,Wasted Turnover,6,Left Defensive Midfield
+3517.0,Yellow Card,4,Right Defensive Midfield
+3518.0,Wasted Turnover,3,Left Back
+3520.0,Wasted Turnover,6,Left Back
+3520.0,Yellow Card,6,Left Back
+3523.0,Wasted Turnover,3,Right Back
+3523.0,Yellow Card,13,Right Back
+3529.0,Wasted Turnover,6,Center Forward
+3530.0,Wasted Turnover,6,Right Back
+3530.0,Yellow Card,9,Right Back
+3532.0,Yellow Card,3,Right Center Midfield
+3533.0,Big Miss,5,Right Wing
+3533.0,Wasted Turnover,11,Right Wing
+3533.0,Yellow Card,4,Right Wing
+3535.0,Big Miss,4,Right Wing
+3535.0,Wasted Turnover,9,Right Wing
+3538.0,Big Miss,3,Center Forward
+3538.0,Wasted Turnover,8,Center Attacking Midfield
+3541.0,Wasted Turnover,5,Left Back
+3545.0,Yellow Card,4,Left Defensive Midfield
+3567.0,Wasted Turnover,8,Center Attacking Midfield
+3567.0,Yellow Card,4,Left Defensive Midfield
+3569.0,Wasted Turnover,3,Center Forward
+3570.0,Wasted Turnover,3,Left Center Forward
+3583.0,Selfish Shot,3,Center Defensive Midfield
+3583.0,Wasted Turnover,5,Center Defensive Midfield
+3583.0,Yellow Card,6,Right Center Midfield
+3585.0,Big Miss,3,Right Wing
+3585.0,Wasted Turnover,10,Right Wing
+3585.0,Yellow Card,4,Right Wing
+3589.0,Wasted Turnover,6,Right Midfield
+3589.0,Yellow Card,3,Right Wing
+3595.0,Wasted Turnover,6,Right Wing
+3596.0,Yellow Card,9,Right Center Back
+3598.0,Wasted Turnover,4,Left Center Forward
+3600.0,Wasted Turnover,3,Left Center Midfield
+3600.0,Yellow Card,5,Right Defensive Midfield
+3601.0,Wasted Turnover,4,Left Midfield
+3602.0,Yellow Card,3,Left Back
+3604.0,Big Miss,4,Center Forward
+3604.0,Wasted Turnover,7,Center Forward
+3604.0,Yellow Card,3,Center Forward
+3605.0,Wasted Turnover,4,Right Center Midfield
+3606.0,Yellow Card,4,Center Attacking Midfield
+3607.0,Wasted Turnover,5,Left Defensive Midfield
+3607.0,Yellow Card,3,Right Center Midfield
+3608.0,Yellow Card,15,Right Center Back
+3610.0,Wasted Turnover,8,Right Center Midfield
+3610.0,Yellow Card,6,Center Defensive Midfield
+3612.0,Wasted Turnover,5,Right Back
+3616.0,Wasted Turnover,3,Left Center Forward
+3621.0,Wasted Turnover,6,Left Wing
+3621.0,Yellow Card,3,Right Wing
+3623.0,Yellow Card,3,Goalkeeper
+3626.0,Yellow Card,5,Left Center Midfield
+3629.0,Wasted Turnover,6,Right Wing
+3629.0,Yellow Card,3,Left Wing
+3633.0,Wasted Turnover,4,Right Defensive Midfield
+3633.0,Yellow Card,8,Center Defensive Midfield
+3636.0,Wasted Turnover,3,Center Attacking Midfield
+3636.0,Yellow Card,4,Left Wing
+3637.0,Yellow Card,7,Left Defensive Midfield
+3638.0,Yellow Card,6,Right Center Back
+3644.0,Yellow Card,10,Left Center Back
+3646.0,Wasted Turnover,3,Left Midfield
+3650.0,Wasted Turnover,8,Right Back
+3651.0,Wasted Turnover,3,Left Back
+3658.0,Wasted Turnover,5,Right Back
+3658.0,Yellow Card,7,Right Back
+3662.0,Yellow Card,6,Right Center Midfield
+3665.0,Wasted Turnover,3,Right Center Midfield
+3665.0,Yellow Card,3,Center Defensive Midfield
+3668.0,Wasted Turnover,7,Left Wing
+3668.0,Yellow Card,5,Center Forward
+3669.0,Yellow Card,6,Left Center Back
+3670.0,Wasted Turnover,7,Right Wing
+3670.0,Yellow Card,3,Right Wing
+3683.0,Wasted Turnover,7,Left Wing
+3683.0,Yellow Card,4,Left Center Midfield
+3684.0,Wasted Turnover,3,Right Center Midfield
+3684.0,Yellow Card,10,Center Defensive Midfield
+3693.0,Yellow Card,7,Left Center Back
+3712.0,Big Miss,4,Center Forward
+3712.0,Wasted Turnover,13,Center Forward
+3712.0,Yellow Card,3,Center Forward
+3721.0,Selfish Shot,3,Left Defensive Midfield
+3721.0,Wasted Turnover,5,Right Defensive Midfield
+3721.0,Yellow Card,4,Right Defensive Midfield
+3722.0,Yellow Card,3,Right Center Back
+3725.0,Yellow Card,3,Left Back
+3726.0,Wasted Turnover,9,Right Wing
+3774.0,Wasted Turnover,3,Left Center Back
+3810.0,Big Miss,3,Right Center Forward
+3810.0,Wasted Turnover,7,Left Center Forward
+3810.0,Yellow Card,5,Right Center Forward
+3812.0,Yellow Card,5,Left Back
+3813.0,Yellow Card,4,Right Center Back
+3814.0,Big Miss,4,Right Midfield
+3814.0,Wasted Turnover,8,Right Midfield
+3814.0,Yellow Card,3,Right Midfield
+3815.0,Yellow Card,4,Goalkeeper
+3828.0,Wasted Turnover,5,Center Attacking Midfield
+3828.0,Yellow Card,4,Left Wing
+3831.0,Wasted Turnover,7,Left Wing
+3842.0,Big Miss,6,Center Forward
+3842.0,Wasted Turnover,6,Center Attacking Midfield
+3842.0,Yellow Card,4,Left Wing
+3843.0,Yellow Card,9,Left Center Back
+3874.0,Wasted Turnover,8,Right Center Midfield
+3897.0,Wasted Turnover,4,Left Defensive Midfield
+3944.0,Big Miss,3,Center Attacking Midfield
+3944.0,Wasted Turnover,19,Left Midfield
+3944.0,Yellow Card,4,Left Attacking Midfield
+3953.0,Wasted Turnover,4,Right Wing
+3953.0,Yellow Card,3,Right Midfield
+3957.0,Wasted Turnover,8,Left Back
+3957.0,Yellow Card,3,Left Back
+3958.0,Wasted Turnover,7,Left Wing
+3958.0,Yellow Card,3,Left Wing
+3960.0,Big Miss,3,Right Center Back
+3960.0,Yellow Card,6,Right Center Back
+3961.0,Wasted Turnover,6,Left Defensive Midfield
+3961.0,Yellow Card,3,Left Defensive Midfield
+3962.0,Big Miss,4,Center Forward
+3962.0,Wasted Turnover,9,Right Wing
+3963.0,Wasted Turnover,4,Right Wing
+3967.0,Selfish Shot,4,Left Center Midfield
+3967.0,Wasted Turnover,5,Right Center Midfield
+3967.0,Yellow Card,10,Right Center Midfield
+3973.0,Wasted Turnover,3,Right Back
+3973.0,Yellow Card,9,Right Back
+3990.0,Wasted Turnover,4,Left Wing
+3990.0,Yellow Card,3,Left Center Forward
+3991.0,Wasted Turnover,4,Right Back
+3991.0,Yellow Card,6,Right Wing Back
+4022.0,Wasted Turnover,7,Left Defensive Midfield
+4022.0,Yellow Card,9,Left Center Midfield
+4041.0,Big Miss,3,Center Forward
+4041.0,Wasted Turnover,6,Right Center Forward
+4041.0,Yellow Card,5,Left Center Forward
+4045.0,Wasted Turnover,4,Left Defensive Midfield
+4090.0,Wasted Turnover,13,Left Midfield
+4090.0,Yellow Card,3,Right Center Forward
+4174.0,Wasted Turnover,4,Left Center Back
+4174.0,Yellow Card,6,Left Center Back
+4269.0,Big Miss,3,Center Forward
+4269.0,Wasted Turnover,9,Center Forward
+4269.0,Yellow Card,6,Left Center Forward
+4271.0,Big Miss,4,Center Forward
+4271.0,Wasted Turnover,9,Center Forward
+4271.0,Yellow Card,8,Center Forward
+4275.0,Selfish Shot,3,Right Wing
+4275.0,Wasted Turnover,12,Right Center Midfield
+4275.0,Yellow Card,5,Center Attacking Midfield
+4317.0,Wasted Turnover,4,Left Wing
+4320.0,Big Miss,3,Left Wing
+4320.0,Wasted Turnover,9,Left Wing
+4320.0,Yellow Card,9,Left Wing
+4324.0,Yellow Card,3,Right Back
+4346.0,Wasted Turnover,6,Left Defensive Midfield
+4346.0,Yellow Card,3,Left Center Midfield
+4353.0,Yellow Card,3,Left Center Back
+4406.0,Yellow Card,5,Left Back
+4416.0,Wasted Turnover,4,Left Midfield
+4416.0,Yellow Card,4,Left Midfield
+4417.0,Wasted Turnover,3,Left Center Midfield
+4429.0,Selfish Shot,3,Left Defensive Midfield
+4429.0,Wasted Turnover,5,Right Center Midfield
+4429.0,Yellow Card,7,Left Defensive Midfield
+4447.0,Wasted Turnover,6,Right Wing
+4447.0,Yellow Card,4,Left Wing
+4498.0,Yellow Card,4,Left Center Back
+4587.0,Wasted Turnover,4,Right Back
+4587.0,Yellow Card,6,Right Back
+4589.0,Wasted Turnover,5,Right Back
+4589.0,Yellow Card,3,Right Back
+4590.0,Wasted Turnover,6,Right Back
+4590.0,Yellow Card,5,Right Back
+4629.0,Yellow Card,6,Center Back
+4631.0,Yellow Card,9,Right Center Midfield
+4711.0,Wasted Turnover,6,Left Wing Back
+4711.0,Yellow Card,5,Left Midfield
+4724.0,Wasted Turnover,5,Right Back
+4724.0,Yellow Card,3,Right Back
+4746.0,Yellow Card,3,Left Center Back
+4747.0,Wasted Turnover,4,Right Midfield
+4751.0,Yellow Card,8,Right Defensive Midfield
+4807.0,Big Miss,5,Center Forward
+4807.0,Yellow Card,6,Center Forward
+4828.0,Big Miss,3,Left Midfield
+4831.0,Wasted Turnover,4,Left Wing
+4884.0,Wasted Turnover,4,Left Back
+4884.0,Yellow Card,12,Left Back
+4891.0,Wasted Turnover,7,Left Wing
+4891.0,Yellow Card,5,Left Wing
+4913.0,Big Miss,4,Center Forward
+4913.0,Wasted Turnover,3,Center Forward
+5186.0,Wasted Turnover,3,Left Midfield
+5198.0,Big Miss,4,Left Center Forward
+5198.0,Wasted Turnover,11,Left Center Forward
+5198.0,Yellow Card,3,Center Forward
+5199.0,Wasted Turnover,9,Right Midfield
+5199.0,Yellow Card,3,Left Defensive Midfield
+5201.0,Yellow Card,5,Left Center Back
+5203.0,Wasted Turnover,12,Right Defensive Midfield
+5203.0,Yellow Card,37,Right Defensive Midfield
+5207.0,Big Miss,3,Right Wing
+5207.0,Wasted Turnover,9,Center Forward
+5207.0,Yellow Card,9,Left Wing
+5208.0,Wasted Turnover,6,Left Center Midfield
+5208.0,Yellow Card,5,Left Center Midfield
+5211.0,Big Miss,5,Left Back
+5211.0,Selfish Shot,3,Left Back
+5211.0,Wasted Turnover,17,Left Back
+5211.0,Yellow Card,32,Left Back
+5213.0,Big Miss,3,Right Center Back
+5213.0,Wasted Turnover,7,Right Center Back
+5213.0,Yellow Card,29,Right Center Back
+5216.0,Wasted Turnover,17,Left Center Midfield
+5216.0,Yellow Card,6,Left Center Midfield
+5217.0,Wasted Turnover,10,Center Attacking Midfield
+5217.0,Yellow Card,3,Left Center Forward
+5244.0,Yellow Card,4,Left Center Back
+5246.0,Big Miss,25,Left Center Forward
+5246.0,Wasted Turnover,35,Left Center Forward
+5246.0,Yellow Card,15,Left Center Forward
+5249.0,Yellow Card,6,Left Center Back
+5259.0,Yellow Card,4,Right Center Back
+5458.0,Big Miss,3,Left Center Forward
+5458.0,Wasted Turnover,7,Center Forward
+5458.0,Yellow Card,6,Right Center Forward
+5460.0,Wasted Turnover,7,Center Forward
+5463.0,Wasted Turnover,7,Right Center Midfield
+5470.0,Selfish Shot,4,Right Center Midfield
+5470.0,Wasted Turnover,17,Right Center Midfield
+5470.0,Yellow Card,21,Right Defensive Midfield
+5475.0,Wasted Turnover,3,Right Defensive Midfield
+5477.0,Big Miss,3,Right Wing
+5477.0,Wasted Turnover,8,Right Midfield
+5477.0,Yellow Card,6,Right Wing
+5481.0,Wasted Turnover,6,Left Wing
+5481.0,Yellow Card,7,Right Wing
+5487.0,Big Miss,12,Left Center Forward
+5487.0,Wasted Turnover,24,Left Center Forward
+5487.0,Yellow Card,9,Right Center Forward
+5489.0,Wasted Turnover,3,Center Defensive Midfield
+5492.0,Yellow Card,7,Left Center Back
+5503.0,Big Miss,18,Center Forward
+5503.0,Selfish Shot,3,Right Wing
+5503.0,Wasted Turnover,66,Right Center Forward
+5503.0,Yellow Card,18,Center Forward
+5504.0,Wasted Turnover,7,Center Attacking Midfield
+5504.0,Yellow Card,5,Left Defensive Midfield
+5506.0,Yellow Card,15,Right Center Back
+5514.0,Wasted Turnover,3,Center Forward
+5537.0,Yellow Card,6,Right Center Back
+5539.0,Yellow Card,7,Center Defensive Midfield
+5540.0,Yellow Card,5,Right Defensive Midfield
+5542.0,Wasted Turnover,5,Right Defensive Midfield
+5543.0,Wasted Turnover,10,Right Center Forward
+5543.0,Yellow Card,3,Right Center Forward
+5544.0,Wasted Turnover,3,Left Back
+5544.0,Yellow Card,3,Left Back
+5552.0,Yellow Card,4,Left Back
+5555.0,Wasted Turnover,4,Right Midfield
+5555.0,Yellow Card,3,Left Wing
+5557.0,Big Miss,3,Right Center Forward
+5557.0,Wasted Turnover,8,Right Wing Back
+5557.0,Yellow Card,5,Left Center Forward
+5559.0,Big Miss,3,Right Wing
+5559.0,Selfish Shot,3,Left Wing
+5559.0,Wasted Turnover,8,Center Forward
+5559.0,Yellow Card,3,Left Wing
+5560.0,Wasted Turnover,7,Right Center Forward
+5562.0,Wasted Turnover,3,Right Wing
+5562.0,Yellow Card,3,Right Center Midfield
+5569.0,Wasted Turnover,9,Left Back
+5569.0,Yellow Card,9,Left Back
+5572.0,Yellow Card,6,Left Center Back
+5574.0,Wasted Turnover,4,Left Defensive Midfield
+5574.0,Yellow Card,9,Left Defensive Midfield
+5581.0,Wasted Turnover,5,Right Wing
+5582.0,Wasted Turnover,6,Left Center Midfield
+5582.0,Yellow Card,3,Left Defensive Midfield
+5588.0,Yellow Card,3,Left Back
+5591.0,Wasted Turnover,3,Left Midfield
+5594.0,Yellow Card,4,Right Back
+5598.0,Yellow Card,4,Left Center Back
+5624.0,Yellow Card,3,Right Defensive Midfield
+5627.0,Wasted Turnover,4,Center Attacking Midfield
+5627.0,Yellow Card,4,Left Wing
+5632.0,Wasted Turnover,7,Right Center Forward
+5632.0,Yellow Card,3,Left Center Forward
+5633.0,Wasted Turnover,6,Left Wing
+5633.0,Yellow Card,5,Right Midfield
+5658.0,Wasted Turnover,4,Right Wing Back
+5658.0,Yellow Card,3,Right Back
+5664.0,Yellow Card,9,Right Defensive Midfield
+5668.0,Big Miss,4,Center Forward
+5668.0,Wasted Turnover,9,Center Forward
+5668.0,Yellow Card,5,Center Forward
+5671.0,Yellow Card,3,Center Defensive Midfield
+5678.0,Wasted Turnover,5,Right Center Midfield
+5679.0,Wasted Turnover,4,Center Attacking Midfield
+5679.0,Yellow Card,3,Left Center Midfield
+5681.0,Wasted Turnover,3,Right Center Midfield
+5681.0,Yellow Card,7,Right Back
+5684.0,Wasted Turnover,11,Center Attacking Midfield
+5684.0,Yellow Card,5,Center Attacking Midfield
+5685.0,Yellow Card,4,Center Defensive Midfield
+5687.0,Wasted Turnover,7,Left Midfield
+5694.0,Yellow Card,3,Right Center Midfield
+5695.0,Wasted Turnover,5,Right Wing
+5697.0,Big Miss,3,Right Midfield
+5697.0,Wasted Turnover,14,Right Midfield
+5697.0,Yellow Card,5,Left Midfield
+5718.0,Big Miss,3,Right Center Forward
+5718.0,Wasted Turnover,10,Left Center Forward
+5719.0,Wasted Turnover,6,Center Attacking Midfield
+5719.0,Yellow Card,3,Right Wing
+5721.0,Yellow Card,3,Right Back
+5724.0,Wasted Turnover,15,Center Attacking Midfield
+5724.0,Yellow Card,9,Left Midfield
+5737.0,Wasted Turnover,4,Left Defensive Midfield
+5835.0,Wasted Turnover,3,Center Forward
+5836.0,Yellow Card,3,Left Back
+5837.0,Wasted Turnover,6,Left Wing Back
+5837.0,Yellow Card,3,Right Wing Back
+6038.0,Wasted Turnover,6,Left Center Forward
+6039.0,Yellow Card,7,Right Midfield
+6040.0,Wasted Turnover,4,Left Back
+6040.0,Yellow Card,3,Left Back
+6300.0,Yellow Card,6,Right Center Back
+6322.0,Yellow Card,5,Right Center Back
+6324.0,Selfish Shot,6,Left Defensive Midfield
+6324.0,Wasted Turnover,5,Center Attacking Midfield
+6324.0,Yellow Card,5,Left Defensive Midfield
+6330.0,Wasted Turnover,3,Center Attacking Midfield
+6332.0,Yellow Card,5,Left Back
+6337.0,Wasted Turnover,3,Center Forward
+6339.0,Wasted Turnover,4,Right Back
+6356.0,Wasted Turnover,5,Right Center Midfield
+6357.0,Yellow Card,3,Right Midfield
+6359.0,Yellow Card,7,Right Center Back
+6374.0,Wasted Turnover,12,Right Back
+6374.0,Yellow Card,5,Right Back
+6375.0,Wasted Turnover,3,Right Back
+6375.0,Yellow Card,9,Right Back
+6377.0,Wasted Turnover,5,Left Wing
+6379.0,Wasted Turnover,11,Center Attacking Midfield
+6379.0,Yellow Card,17,Right Back
+6381.0,Wasted Turnover,5,Left Center Midfield
+6381.0,Yellow Card,12,Left Defensive Midfield
+6382.0,Wasted Turnover,3,Center Forward
+6384.0,Wasted Turnover,4,Right Defensive Midfield
+6384.0,Yellow Card,14,Right Defensive Midfield
+6386.0,Wasted Turnover,3,Right Back
+6386.0,Yellow Card,3,Right Back
+6389.0,Yellow Card,4,Right Defensive Midfield
+6390.0,Big Miss,3,Right Wing
+6390.0,Wasted Turnover,9,Right Midfield
+6391.0,Big Miss,3,Right Center Forward
+6391.0,Wasted Turnover,7,Center Attacking Midfield
+6391.0,Yellow Card,3,Center Attacking Midfield
+6392.0,Wasted Turnover,5,Right Wing
+6393.0,Wasted Turnover,9,Right Wing
+6393.0,Yellow Card,7,Right Wing
+6394.0,Wasted Turnover,12,Center Forward
+6394.0,Yellow Card,5,Center Forward
+6396.0,Wasted Turnover,4,Right Defensive Midfield
+6396.0,Yellow Card,6,Left Defensive Midfield
+6399.0,Yellow Card,3,Center Attacking Midfield
+6400.0,Wasted Turnover,3,Right Midfield
+6400.0,Yellow Card,5,Right Back
+6401.0,Wasted Turnover,11,Center Forward
+6402.0,Big Miss,6,Center Forward
+6402.0,Wasted Turnover,17,Left Midfield
+6409.0,Wasted Turnover,6,Right Back
+6409.0,Yellow Card,4,Right Back
+6557.0,Selfish Shot,4,Left Defensive Midfield
+6557.0,Wasted Turnover,6,Center Attacking Midfield
+6557.0,Yellow Card,3,Center Attacking Midfield
+6559.0,Wasted Turnover,4,Left Wing Back
+6559.0,Yellow Card,3,Left Wing
+6561.0,Yellow Card,4,Right Center Back
+6563.0,Wasted Turnover,5,Left Center Forward
+6563.0,Yellow Card,4,Center Forward
+6564.0,Yellow Card,3,Center Defensive Midfield
+6566.0,Big Miss,3,Left Center Forward
+6566.0,Wasted Turnover,12,Center Forward
+6566.0,Yellow Card,3,Center Forward
+6569.0,Wasted Turnover,7,Right Back
+6569.0,Yellow Card,11,Right Wing Back
+6573.0,Yellow Card,3,Center Back
+6580.0,Wasted Turnover,5,Left Defensive Midfield
+6580.0,Yellow Card,6,Right Defensive Midfield
+6581.0,Wasted Turnover,10,Right Midfield
+6581.0,Yellow Card,5,Left Midfield
+6589.0,Yellow Card,3,Right Defensive Midfield
+6594.0,Big Miss,3,Center Forward
+6594.0,Wasted Turnover,9,Right Wing
+6594.0,Yellow Card,4,Center Forward
+6595.0,Selfish Shot,6,Right Center Midfield
+6595.0,Wasted Turnover,6,Right Defensive Midfield
+6595.0,Yellow Card,5,Right Defensive Midfield
+6596.0,Wasted Turnover,7,Left Back
+6599.0,Yellow Card,5,Left Defensive Midfield
+6600.0,Wasted Turnover,3,Right Wing
+6606.0,Wasted Turnover,6,Center Attacking Midfield
+6606.0,Yellow Card,3,Center Attacking Midfield
+6608.0,Big Miss,3,Right Midfield
+6608.0,Wasted Turnover,5,Right Wing
+6608.0,Yellow Card,5,Right Midfield
+6609.0,Big Miss,3,Left Wing
+6609.0,Wasted Turnover,6,Left Center Midfield
+6609.0,Yellow Card,3,Right Center Midfield
+6612.0,Wasted Turnover,6,Left Wing Back
+6614.0,Yellow Card,6,Right Center Back
+6616.0,Wasted Turnover,4,Left Wing
+6622.0,Yellow Card,3,Center Defensive Midfield
+6624.0,Wasted Turnover,4,Left Center Forward
+6626.0,Yellow Card,3,Right Center Midfield
+6627.0,Wasted Turnover,6,Right Back
+6627.0,Yellow Card,9,Right Back
+6630.0,Wasted Turnover,3,Center Forward
+6630.0,Yellow Card,3,Right Center Forward
+6632.0,Wasted Turnover,3,Left Center Midfield
+6647.0,Yellow Card,4,Left Center Back
+6649.0,Selfish Shot,4,Right Back
+6649.0,Wasted Turnover,7,Right Midfield
+6649.0,Yellow Card,7,Right Back
+6651.0,Big Miss,4,Left Wing
+6651.0,Wasted Turnover,9,Center Attacking Midfield
+6656.0,Wasted Turnover,3,Right Center Midfield
+6657.0,Wasted Turnover,3,Right Center Forward
+6659.0,Wasted Turnover,7,Right Center Midfield
+6659.0,Yellow Card,7,Right Center Midfield
+6663.0,Yellow Card,4,Right Back
+6665.0,Yellow Card,8,Left Center Back
+6666.0,Wasted Turnover,4,Left Wing
+6667.0,Yellow Card,3,Right Center Midfield
+6668.0,Wasted Turnover,7,Left Center Midfield
+6668.0,Yellow Card,6,Left Midfield
+6669.0,Wasted Turnover,7,Left Center Midfield
+6671.0,Wasted Turnover,3,Left Defensive Midfield
+6671.0,Yellow Card,6,Right Center Midfield
+6672.0,Yellow Card,5,Right Back
+6673.0,Yellow Card,4,Right Midfield
+6675.0,Yellow Card,3,Right Center Forward
+6677.0,Big Miss,3,Center Forward
+6679.0,Yellow Card,5,Right Back
+6680.0,Wasted Turnover,10,Left Wing
+6680.0,Yellow Card,5,Center Attacking Midfield
+6684.0,Wasted Turnover,3,Right Center Forward
+6685.0,Wasted Turnover,3,Left Midfield
+6685.0,Yellow Card,4,Left Wing
+6690.0,Wasted Turnover,7,Right Wing
+6690.0,Yellow Card,3,Right Wing
+6695.0,Wasted Turnover,3,Right Wing
+6697.0,Wasted Turnover,6,Left Wing
+6699.0,Wasted Turnover,5,Right Wing
+6699.0,Yellow Card,7,Right Wing
+6700.0,Big Miss,7,Center Forward
+6700.0,Wasted Turnover,10,Center Forward
+6700.0,Yellow Card,4,Center Forward
+6702.0,Yellow Card,7,Right Center Back
+6707.0,Wasted Turnover,12,Center Forward
+6707.0,Yellow Card,8,Right Center Forward
+6709.0,Yellow Card,3,Left Center Back
+6712.0,Wasted Turnover,11,Right Defensive Midfield
+6712.0,Yellow Card,9,Right Defensive Midfield
+6713.0,Yellow Card,7,Right Center Back
+6717.0,Selfish Shot,4,Right Defensive Midfield
+6717.0,Yellow Card,8,Right Defensive Midfield
+6718.0,Yellow Card,3,Left Back
+6720.0,Wasted Turnover,15,Center Attacking Midfield
+6720.0,Yellow Card,3,Right Center Forward
+6721.0,Wasted Turnover,6,Center Forward
+6721.0,Yellow Card,3,Center Forward
+6724.0,Wasted Turnover,8,Left Wing
+6724.0,Yellow Card,5,Left Midfield
+6727.0,Yellow Card,5,Right Center Back
+6728.0,Wasted Turnover,4,Right Midfield
+6732.0,Big Miss,10,Left Center Forward
+6732.0,Wasted Turnover,13,Right Center Forward
+6732.0,Yellow Card,6,Left Center Forward
+6733.0,Wasted Turnover,5,Center Defensive Midfield
+6733.0,Yellow Card,9,Right Center Midfield
+6734.0,Wasted Turnover,3,Left Back
+6734.0,Yellow Card,4,Right Back
+6735.0,Wasted Turnover,4,Left Center Forward
+6736.0,Wasted Turnover,4,Left Center Midfield
+6736.0,Yellow Card,5,Right Defensive Midfield
+6738.0,Wasted Turnover,5,Right Back
+6738.0,Yellow Card,10,Right Wing Back
+6740.0,Wasted Turnover,3,Left Midfield
+6742.0,Wasted Turnover,8,Right Wing
+6742.0,Yellow Card,6,Right Midfield
+6745.0,Wasted Turnover,3,Right Defensive Midfield
+6745.0,Yellow Card,9,Left Defensive Midfield
+6746.0,Yellow Card,5,Left Center Back
+6751.0,Yellow Card,3,Left Defensive Midfield
+6752.0,Yellow Card,10,Left Center Back
+6754.0,Wasted Turnover,3,Right Center Back
+6758.0,Wasted Turnover,6,Right Defensive Midfield
+6758.0,Yellow Card,9,Left Defensive Midfield
+6761.0,Big Miss,4,Left Center Forward
+6763.0,Wasted Turnover,3,Left Wing
+6766.0,Wasted Turnover,6,Left Center Forward
+6770.0,Yellow Card,3,Left Center Midfield
+6771.0,Wasted Turnover,7,Right Center Midfield
+6771.0,Yellow Card,7,Right Center Midfield
+6772.0,Wasted Turnover,6,Right Back
+6772.0,Yellow Card,7,Right Back
+6775.0,Wasted Turnover,3,Left Defensive Midfield
+6775.0,Yellow Card,10,Left Defensive Midfield
+6776.0,Wasted Turnover,5,Left Wing
+6776.0,Yellow Card,6,Left Back
+6778.0,Yellow Card,4,Left Center Back
+6784.0,Yellow Card,5,Left Back
+6789.0,Yellow Card,3,Left Back
+6791.0,Wasted Turnover,4,Right Back
+6791.0,Yellow Card,6,Right Back
+6794.0,Yellow Card,7,Right Center Back
+6796.0,Yellow Card,5,Center Defensive Midfield
+6797.0,Wasted Turnover,4,Left Center Midfield
+6797.0,Yellow Card,3,Center Defensive Midfield
+6800.0,Wasted Turnover,12,Center Attacking Midfield
+6800.0,Yellow Card,4,Right Midfield
+6801.0,Wasted Turnover,4,Right Center Midfield
+6801.0,Yellow Card,7,Left Center Midfield
+6802.0,Wasted Turnover,5,Left Back
+6805.0,Yellow Card,5,Right Back
+6821.0,Wasted Turnover,14,Right Wing
+6821.0,Yellow Card,3,Right Midfield
+6826.0,Yellow Card,14,Left Center Back
+6828.0,Yellow Card,6,Left Back
+6829.0,Wasted Turnover,4,Left Midfield
+6829.0,Yellow Card,4,Right Center Midfield
+6832.0,Big Miss,3,Right Center Forward
+6832.0,Wasted Turnover,3,Left Center Forward
+6832.0,Yellow Card,3,Left Center Forward
+6837.0,Yellow Card,8,Right Center Back
+6838.0,Wasted Turnover,6,Right Wing
+6838.0,Yellow Card,5,Right Wing
+6840.0,Wasted Turnover,3,Right Defensive Midfield
+6841.0,Big Miss,3,Left Wing
+6841.0,Wasted Turnover,6,Right Wing
+6841.0,Yellow Card,3,Left Wing
+6842.0,Wasted Turnover,3,Left Wing
+6847.0,Wasted Turnover,7,Left Center Forward
+6847.0,Yellow Card,6,Center Attacking Midfield
+6849.0,Yellow Card,3,Left Back
+6852.0,Wasted Turnover,5,Left Center Midfield
+6852.0,Yellow Card,5,Left Defensive Midfield
+6856.0,Yellow Card,4,Right Back
+6861.0,Yellow Card,7,Right Center Back
+6862.0,Wasted Turnover,10,Center Forward
+6865.0,Wasted Turnover,3,Right Back
+6867.0,Wasted Turnover,8,Right Center Midfield
+6867.0,Yellow Card,6,Right Center Midfield
+6869.0,Yellow Card,8,Right Center Back
+6870.0,Wasted Turnover,14,Right Midfield
+6870.0,Yellow Card,6,Left Midfield
+6872.0,Yellow Card,7,Right Center Back
+6873.0,Yellow Card,3,Left Midfield
+6878.0,Yellow Card,4,Left Back
+6880.0,Wasted Turnover,8,Center Forward
+6883.0,Wasted Turnover,3,Right Center Forward
+6888.0,Yellow Card,3,Right Center Midfield
+6890.0,Yellow Card,4,Left Center Back
+6899.0,Wasted Turnover,6,Right Defensive Midfield
+6899.0,Yellow Card,5,Left Defensive Midfield
+6901.0,Wasted Turnover,3,Right Defensive Midfield
+6907.0,Wasted Turnover,13,Right Wing
+6913.0,Wasted Turnover,5,Left Back
+6913.0,Yellow Card,3,Left Back
+6914.0,Wasted Turnover,5,Left Back
+6914.0,Yellow Card,4,Left Back
+6918.0,Wasted Turnover,5,Right Wing
+6918.0,Yellow Card,3,Right Wing
+6924.0,Yellow Card,5,Left Defensive Midfield
+6925.0,Wasted Turnover,5,Left Wing
+6925.0,Yellow Card,5,Left Midfield
+6926.0,Wasted Turnover,5,Left Center Forward
+6926.0,Yellow Card,6,Center Attacking Midfield
+6928.0,Wasted Turnover,7,Center Attacking Midfield
+6928.0,Yellow Card,4,Center Attacking Midfield
+6929.0,Wasted Turnover,4,Left Defensive Midfield
+6934.0,Wasted Turnover,5,Left Midfield
+6934.0,Yellow Card,4,Right Midfield
+6935.0,Yellow Card,4,Right Center Midfield
+7005.0,Wasted Turnover,7,Right Wing
+7016.0,Yellow Card,4,Center Back
+7039.0,Wasted Turnover,10,Left Midfield
+7039.0,Yellow Card,4,Right Defensive Midfield
+7063.0,Wasted Turnover,5,Left Wing
+7063.0,Yellow Card,5,Center Defensive Midfield
+7105.0,Wasted Turnover,7,Right Wing
+7105.0,Yellow Card,3,Right Wing
+7110.0,Wasted Turnover,4,Right Back
+7110.0,Yellow Card,5,Right Back
+7141.0,Wasted Turnover,4,Center Forward
+7153.0,Wasted Turnover,8,Right Center Midfield
+7153.0,Yellow Card,3,Left Center Midfield
+7154.0,Yellow Card,5,Right Defensive Midfield
+7158.0,Wasted Turnover,5,Left Back
+7161.0,Yellow Card,6,Center Back
+7171.0,Wasted Turnover,7,Right Midfield
+7171.0,Yellow Card,3,Left Wing
+7577.0,Yellow Card,3,Left Back
+7780.0,Wasted Turnover,6,Center Defensive Midfield
+7780.0,Yellow Card,5,Left Defensive Midfield
+7781.0,Big Miss,4,Center Forward
+7781.0,Wasted Turnover,8,Center Forward
+7781.0,Yellow Card,4,Center Forward
+7782.0,Wasted Turnover,6,Left Midfield
+7782.0,Yellow Card,3,Left Midfield
+7900.0,Wasted Turnover,8,Left Wing
+7906.0,Wasted Turnover,6,Right Back
+7906.0,Yellow Card,4,Right Back
+7907.0,Yellow Card,4,Left Center Back
+8060.0,Big Miss,3,Center Forward
+8060.0,Wasted Turnover,8,Right Center Forward
+8060.0,Yellow Card,4,Right Center Forward
+8118.0,Wasted Turnover,8,Left Center Midfield
+8118.0,Yellow Card,11,Right Center Midfield
+8167.0,Wasted Turnover,4,Right Center Forward
+8206.0,Wasted Turnover,15,Right Midfield
+8206.0,Yellow Card,10,Left Center Midfield
+8207.0,Wasted Turnover,4,Right Defensive Midfield
+8207.0,Yellow Card,12,Right Defensive Midfield
+8210.0,Yellow Card,3,Right Defensive Midfield
+8212.0,Wasted Turnover,3,Left Back
+8212.0,Yellow Card,6,Left Back
+8213.0,Wasted Turnover,10,Right Wing
+8213.0,Yellow Card,7,Right Wing
+8215.0,Wasted Turnover,8,Right Center Forward
+8216.0,Yellow Card,5,Left Defensive Midfield
+8219.0,Wasted Turnover,3,Left Midfield
+8221.0,Yellow Card,10,Right Center Back
+8222.0,Yellow Card,3,Right Defensive Midfield
+8225.0,Yellow Card,3,Goalkeeper
+8227.0,Wasted Turnover,8,Left Wing
+8230.0,Wasted Turnover,6,Center Defensive Midfield
+8230.0,Yellow Card,4,Center Defensive Midfield
+8231.0,Wasted Turnover,7,Left Defensive Midfield
+8231.0,Yellow Card,4,Left Defensive Midfield
+8233.0,Big Miss,3,Right Wing
+8233.0,Wasted Turnover,5,Left Defensive Midfield
+8233.0,Yellow Card,7,Left Defensive Midfield
+8234.0,Yellow Card,3,Left Defensive Midfield
+8235.0,Yellow Card,4,Center Attacking Midfield
+8237.0,Wasted Turnover,5,Right Back
+8237.0,Yellow Card,5,Right Back
+8240.0,Yellow Card,3,Goalkeeper
+8243.0,Big Miss,3,Right Midfield
+8243.0,Wasted Turnover,4,Center Attacking Midfield
+8243.0,Yellow Card,6,Center Attacking Midfield
+8251.0,Yellow Card,3,Left Center Midfield
+8270.0,Yellow Card,5,Right Back
+8302.0,Wasted Turnover,9,Right Wing
+8303.0,Wasted Turnover,8,Center Forward
+8308.0,Wasted Turnover,5,Center Attacking Midfield
+8308.0,Yellow Card,3,Center Attacking Midfield
+8309.0,Big Miss,3,Right Midfield
+8309.0,Wasted Turnover,3,Right Wing
+8311.0,Wasted Turnover,5,Right Center Midfield
+8316.0,Wasted Turnover,5,Right Back
+8316.0,Yellow Card,3,Right Back
+8317.0,Yellow Card,6,Left Defensive Midfield
+8319.0,Yellow Card,6,Left Back
+8321.0,Wasted Turnover,5,Center Forward
+8323.0,Wasted Turnover,3,Left Defensive Midfield
+8323.0,Yellow Card,5,Right Defensive Midfield
+8386.0,Wasted Turnover,10,Right Wing
+8386.0,Yellow Card,6,Left Center Midfield
+8387.0,Wasted Turnover,3,Right Wing
+8388.0,Selfish Shot,5,Left Defensive Midfield
+8388.0,Wasted Turnover,6,Left Defensive Midfield
+8388.0,Yellow Card,10,Right Defensive Midfield
+8389.0,Selfish Shot,3,Right Midfield
+8389.0,Wasted Turnover,9,Right Midfield
+8389.0,Yellow Card,4,Right Center Forward
+8390.0,Yellow Card,3,Right Defensive Midfield
+8392.0,Yellow Card,5,Left Back
+8394.0,Yellow Card,4,Right Center Midfield
+8395.0,Wasted Turnover,3,Left Center Back
+8395.0,Yellow Card,4,Right Defensive Midfield
+8396.0,Wasted Turnover,6,Right Back
+8396.0,Yellow Card,5,Right Back
+8397.0,Wasted Turnover,3,Left Defensive Midfield
+8397.0,Yellow Card,4,Left Defensive Midfield
+8403.0,Yellow Card,3,Right Center Midfield
+8405.0,Yellow Card,5,Left Center Back
+8407.0,Wasted Turnover,6,Right Center Forward
+8419.0,Big Miss,4,Left Center Forward
+8419.0,Wasted Turnover,14,Center Attacking Midfield
+8440.0,Yellow Card,3,Right Center Back
+8504.0,Yellow Card,4,Left Back
+8508.0,Wasted Turnover,7,Left Midfield
+8508.0,Yellow Card,4,Left Wing
+8512.0,Wasted Turnover,7,Right Center Forward
+8516.0,Yellow Card,8,Right Center Back
+8521.0,Wasted Turnover,8,Left Wing
+8521.0,Yellow Card,4,Right Midfield
+8523.0,Big Miss,3,Left Wing
+8523.0,Wasted Turnover,6,Left Midfield
+8539.0,Yellow Card,5,Left Defensive Midfield
+8541.0,Wasted Turnover,4,Left Wing
+8541.0,Yellow Card,4,Right Wing
+8543.0,Selfish Shot,3,Right Defensive Midfield
+8543.0,Wasted Turnover,6,Left Defensive Midfield
+8543.0,Yellow Card,5,Right Center Midfield
+8545.0,Yellow Card,3,Right Back
+8547.0,Wasted Turnover,4,Left Back
+8547.0,Yellow Card,5,Left Back
+8548.0,Wasted Turnover,3,Right Back
+8549.0,Wasted Turnover,4,Right Back
+8549.0,Yellow Card,4,Right Back
+8554.0,Wasted Turnover,7,Left Midfield
+8555.0,Wasted Turnover,5,Left Wing
+8556.0,Yellow Card,3,Right Defensive Midfield
+8557.0,Wasted Turnover,4,Right Center Forward
+8559.0,Yellow Card,4,Left Center Back
+8561.0,Yellow Card,5,Left Defensive Midfield
+8571.0,Wasted Turnover,8,Center Forward
+8571.0,Yellow Card,3,Center Forward
+8573.0,Yellow Card,3,Left Center Back
+8574.0,Wasted Turnover,4,Right Wing
+8575.0,Big Miss,9,Left Center Forward
+8575.0,Wasted Turnover,10,Right Center Forward
+8576.0,Wasted Turnover,10,Left Midfield
+8576.0,Yellow Card,10,Right Back
+8578.0,Wasted Turnover,8,Left Defensive Midfield
+8578.0,Yellow Card,4,Right Defensive Midfield
+8579.0,Wasted Turnover,5,Right Defensive Midfield
+8579.0,Yellow Card,5,Left Defensive Midfield
+8580.0,Yellow Card,6,Right Center Back
+8584.0,Wasted Turnover,9,Center Forward
+8676.0,Wasted Turnover,4,Right Back
+8676.0,Yellow Card,3,Right Back
+8678.0,Wasted Turnover,3,Center Back
+8679.0,Wasted Turnover,12,Right Center Forward
+8679.0,Yellow Card,4,Center Attacking Midfield
+8762.0,Wasted Turnover,6,Left Midfield
+8762.0,Yellow Card,4,Center Attacking Midfield
+8801.0,Yellow Card,3,Right Wing Back
+8804.0,Wasted Turnover,3,Right Wing
+8805.0,Wasted Turnover,4,Right Defensive Midfield
+8805.0,Yellow Card,7,Right Defensive Midfield
+8806.0,Big Miss,3,Right Center Forward
+8806.0,Wasted Turnover,7,Right Defensive Midfield
+8806.0,Yellow Card,5,Right Defensive Midfield
+8807.0,Wasted Turnover,8,Center Forward
+8808.0,Yellow Card,4,Center Defensive Midfield
+8809.0,Wasted Turnover,3,Left Back
+8810.0,Wasted Turnover,13,Left Center Forward
+8810.0,Yellow Card,5,Left Center Forward
+8812.0,Yellow Card,3,Right Defensive Midfield
+8815.0,Yellow Card,5,Left Center Back
+8816.0,Yellow Card,7,Left Defensive Midfield
+8817.0,Wasted Turnover,10,Center Forward
+8821.0,Yellow Card,3,Goalkeeper
+8822.0,Wasted Turnover,3,Right Center Forward
+8823.0,Wasted Turnover,6,Right Midfield
+8823.0,Yellow Card,8,Right Back
+8825.0,Yellow Card,3,Left Center Midfield
+8826.0,Wasted Turnover,7,Left Midfield
+8827.0,Selfish Shot,3,Right Defensive Midfield
+8827.0,Yellow Card,8,Right Defensive Midfield
+8828.0,Yellow Card,10,Left Center Back
+8883.0,Wasted Turnover,3,Left Midfield
+8891.0,Wasted Turnover,6,Left Center Midfield
+8891.0,Yellow Card,8,Left Defensive Midfield
+8895.0,Big Miss,4,Center Forward
+8895.0,Wasted Turnover,10,Center Forward
+8895.0,Yellow Card,3,Left Center Forward
+8900.0,Yellow Card,3,Left Center Back
+8918.0,Wasted Turnover,3,Right Back
+8958.0,Wasted Turnover,4,Left Wing Back
+8959.0,Yellow Card,4,Left Defensive Midfield
+8965.0,Yellow Card,7,Left Center Back
+8969.0,Yellow Card,4,Right Defensive Midfield
+9098.0,Big Miss,3,Right Wing
+9098.0,Wasted Turnover,5,Right Wing
+9098.0,Yellow Card,3,Right Wing Back
+9103.0,Wasted Turnover,4,Center Forward
+9106.0,Yellow Card,4,Right Center Back
+9113.0,Wasted Turnover,4,Center Forward
+9134.0,Yellow Card,4,Right Center Midfield
+9216.0,Yellow Card,3,Center Defensive Midfield
+9217.0,Yellow Card,9,Right Center Back
+9219.0,Wasted Turnover,5,Left Wing
+9222.0,Wasted Turnover,3,Left Back
+9222.0,Yellow Card,3,Left Back
+9396.0,Yellow Card,5,Left Center Back
+9397.0,Wasted Turnover,5,Right Back
+9397.0,Yellow Card,5,Right Back
+9401.0,Wasted Turnover,8,Right Midfield
+9401.0,Yellow Card,4,Right Midfield
+9404.0,Wasted Turnover,5,Left Center Back
+9404.0,Yellow Card,15,Left Center Back
+9407.0,Yellow Card,4,Right Defensive Midfield
+9409.0,Big Miss,4,Left Center Forward
+9452.0,Yellow Card,5,Right Defensive Midfield
+9459.0,Yellow Card,4,Right Back
+9461.0,Yellow Card,3,Left Center Back
+9462.0,Wasted Turnover,6,Left Midfield
+9463.0,Wasted Turnover,3,Right Defensive Midfield
+9463.0,Yellow Card,9,Left Defensive Midfield
+9485.0,Wasted Turnover,10,Center Attacking Midfield
+9485.0,Yellow Card,4,Left Wing
+9528.0,Wasted Turnover,5,Left Wing
+9533.0,Yellow Card,7,Right Back
+9536.0,Wasted Turnover,7,Left Wing
+9554.0,Wasted Turnover,5,Center Forward
+9578.0,Big Miss,3,Right Midfield
+9578.0,Wasted Turnover,12,Left Wing
+9578.0,Yellow Card,8,Right Midfield
+9625.0,Wasted Turnover,8,Left Defensive Midfield
+9625.0,Yellow Card,6,Left Defensive Midfield
+9626.0,Yellow Card,3,Right Center Back
+9627.0,Wasted Turnover,6,Left Back
+9628.0,Yellow Card,4,Right Back
+9641.0,Wasted Turnover,4,Center Forward
+9642.0,Wasted Turnover,6,Right Back
+9642.0,Yellow Card,7,Right Back
+9649.0,Wasted Turnover,4,Left Back
+9649.0,Yellow Card,4,Left Center Midfield
+9723.0,Wasted Turnover,7,Center Forward
+9728.0,Yellow Card,3,Right Back
+9930.0,Yellow Card,3,Right Center Back
+10037.0,Yellow Card,4,Right Center Midfield
+10281.0,Wasted Turnover,8,Left Wing
+10287.0,Wasted Turnover,5,Right Center Midfield
+10287.0,Yellow Card,6,Right Center Midfield
+10476.0,Yellow Card,3,Left Center Back
+10503.0,Wasted Turnover,6,Right Back
+10503.0,Yellow Card,5,Right Back
+10594.0,Big Miss,3,Left Center Forward
+10594.0,Wasted Turnover,4,Center Forward
+10609.0,Yellow Card,3,Left Back
+10755.0,Wasted Turnover,12,Left Center Midfield
+10755.0,Yellow Card,5,Center Attacking Midfield
+10790.0,Wasted Turnover,6,Right Wing
+10802.0,Wasted Turnover,8,Left Defensive Midfield
+10802.0,Yellow Card,6,Right Center Midfield
+10868.0,Wasted Turnover,3,Right Midfield
+10896.0,Wasted Turnover,3,Left Center Midfield
+10896.0,Yellow Card,7,Right Midfield
+10955.0,Big Miss,4,Center Forward
+10955.0,Wasted Turnover,14,Center Forward
+10955.0,Yellow Card,5,Center Forward
+10956.0,Selfish Shot,3,Right Defensive Midfield
+10956.0,Wasted Turnover,6,Right Defensive Midfield
+10956.0,Yellow Card,10,Right Defensive Midfield
+10958.0,Yellow Card,8,Right Center Back
+10960.0,Big Miss,5,Left Center Forward
+10960.0,Wasted Turnover,5,Left Center Forward
+10960.0,Yellow Card,6,Left Center Forward
+10966.0,Wasted Turnover,7,Center Attacking Midfield
+10966.0,Yellow Card,4,Center Attacking Midfield
+10967.0,Wasted Turnover,5,Left Back
+10967.0,Yellow Card,6,Left Wing
+11012.0,Yellow Card,8,Left Center Back
+11062.0,Big Miss,5,Center Forward
+11062.0,Wasted Turnover,9,Left Center Forward
+11094.0,Wasted Turnover,5,Left Center Midfield
+11094.0,Yellow Card,3,Left Center Midfield
+11117.0,Wasted Turnover,7,Left Center Forward
+11132.0,Wasted Turnover,11,Left Center Forward
+11134.0,Wasted Turnover,8,Left Midfield
+11134.0,Yellow Card,3,Left Midfield
+11283.0,Selfish Shot,3,Left Midfield
+11283.0,Wasted Turnover,4,Left Midfield
+11283.0,Yellow Card,4,Left Midfield
+11285.0,Wasted Turnover,3,Right Midfield
+11286.0,Wasted Turnover,3,Center Back
+11300.0,Yellow Card,3,Left Defensive Midfield
+11386.0,Wasted Turnover,3,Left Center Midfield
+11386.0,Yellow Card,3,Left Center Midfield
+11392.0,Wasted Turnover,5,Left Center Midfield
+11392.0,Yellow Card,3,Left Center Midfield
+11394.0,Big Miss,4,Center Forward
+11395.0,Yellow Card,5,Right Midfield
+11396.0,Wasted Turnover,4,Left Midfield
+11396.0,Yellow Card,5,Left Center Midfield
+11458.0,Wasted Turnover,4,Left Back
+11458.0,Yellow Card,9,Left Back
+11539.0,Wasted Turnover,7,Right Wing
+11542.0,Big Miss,4,Center Forward
+11542.0,Wasted Turnover,6,Center Forward
+11634.0,Yellow Card,3,Right Back
+11675.0,Wasted Turnover,3,Center Attacking Midfield
+11813.0,Wasted Turnover,3,Center Attacking Midfield
+11813.0,Yellow Card,3,Right Back
+11845.0,Wasted Turnover,5,Center Forward
+12304.0,Wasted Turnover,7,Left Center Midfield
+12304.0,Yellow Card,6,Left Center Midfield
+12316.0,Wasted Turnover,3,Right Back
+12320.0,Yellow Card,3,Right Back
+12321.0,Wasted Turnover,5,Right Back
+12321.0,Yellow Card,3,Left Defensive Midfield
+12327.0,Yellow Card,3,Left Center Back
+12383.0,Yellow Card,3,Left Defensive Midfield
+12551.0,Wasted Turnover,6,Left Center Midfield
+12624.0,Big Miss,3,Left Center Forward
+12626.0,Wasted Turnover,7,Left Back
+12626.0,Yellow Card,6,Left Back
+13107.0,Wasted Turnover,4,Right Defensive Midfield
+13107.0,Yellow Card,7,Right Defensive Midfield
+13126.0,Wasted Turnover,3,Left Back
+13200.0,Wasted Turnover,4,Right Midfield
+13286.0,Yellow Card,3,Right Center Back
+13599.0,Wasted Turnover,3,Right Center Midfield
+13599.0,Yellow Card,3,Left Center Midfield
+13846.0,Yellow Card,3,Right Center Back
+15651.0,Yellow Card,4,Left Center Back
+15805.0,Yellow Card,5,Center Defensive Midfield
+15892.0,Wasted Turnover,4,Center Attacking Midfield
+15893.0,Wasted Turnover,5,Left Wing
+15893.0,Yellow Card,3,Right Midfield
+16003.0,Wasted Turnover,3,Right Center Forward
+16003.0,Yellow Card,4,Center Defensive Midfield
+16072.0,Selfish Shot,4,Right Defensive Midfield
+16072.0,Wasted Turnover,5,Right Center Midfield
+16072.0,Yellow Card,6,Right Defensive Midfield
+16181.0,Wasted Turnover,6,Right Defensive Midfield
+16181.0,Yellow Card,5,Left Defensive Midfield
+16334.0,Wasted Turnover,4,Left Defensive Midfield
+16334.0,Yellow Card,5,Right Center Midfield
+16335.0,Wasted Turnover,3,Right Midfield
+16456.0,Yellow Card,7,Right Center Back
+16457.0,Wasted Turnover,4,Center Attacking Midfield
+16534.0,Yellow Card,11,Left Center Back
+16539.0,Yellow Card,5,Left Center Back
+16622.0,Yellow Card,4,Right Center Back
+16890.0,Yellow Card,3,Right Center Back
+17304.0,Wasted Turnover,4,Left Back
+17622.0,Wasted Turnover,4,Right Center Forward
+17622.0,Yellow Card,3,Left Center Forward
+17818.0,Yellow Card,3,Right Center Back
+18395.0,Wasted Turnover,3,Left Wing
+18407.0,Yellow Card,3,Left Defensive Midfield
+18721.0,Yellow Card,3,Left Wing
+18724.0,Wasted Turnover,3,Right Wing
+18724.0,Yellow Card,3,Right Wing
+18751.0,Wasted Turnover,3,Center Forward
+18867.0,Wasted Turnover,4,Right Midfield
+18872.0,Yellow Card,4,Center Back
+18888.0,Yellow Card,3,Left Center Midfield
+19295.0,Wasted Turnover,4,Right Center Midfield
+19295.0,Yellow Card,3,Right Center Back
+19362.0,Wasted Turnover,4,Center Attacking Midfield
+19431.0,Wasted Turnover,3,Right Defensive Midfield
+19668.0,Wasted Turnover,3,Left Defensive Midfield
+19668.0,Yellow Card,3,Right Defensive Midfield
+19677.0,Big Miss,10,Center Forward
+19677.0,Wasted Turnover,3,Center Forward
+19688.0,Wasted Turnover,8,Center Attacking Midfield
+19688.0,Yellow Card,4,Right Center Midfield
+20005.0,Yellow Card,7,Right Center Back
+20010.0,Wasted Turnover,6,Right Center Midfield
+20010.0,Yellow Card,10,Right Center Midfield
+20037.0,Wasted Turnover,6,Right Defensive Midfield
+20037.0,Yellow Card,5,Right Defensive Midfield
+20039.0,Big Miss,3,Center Forward
+20039.0,Wasted Turnover,16,Center Forward
+20039.0,Yellow Card,4,Left Midfield
+20045.0,Wasted Turnover,5,Left Back
+20045.0,Yellow Card,4,Left Wing Back
+20046.0,Yellow Card,6,Right Center Back
+20064.0,Wasted Turnover,3,Right Back
+20064.0,Yellow Card,4,Right Back
+20067.0,Yellow Card,3,Right Defensive Midfield
+20133.0,Yellow Card,3,Center Defensive Midfield
+20285.0,Yellow Card,10,Left Center Back
+20287.0,Yellow Card,6,Left Center Back
+20302.0,Yellow Card,7,Left Back
+20521.0,Big Miss,3,Center Forward
+20521.0,Yellow Card,6,Left Defensive Midfield
+20522.0,Yellow Card,4,Right Back
+20542.0,Big Miss,3,Center Forward
+20542.0,Wasted Turnover,4,Right Center Forward
+20542.0,Yellow Card,4,Right Center Forward
+20641.0,Wasted Turnover,9,Center Forward
+20641.0,Yellow Card,3,Center Forward
+20665.0,Wasted Turnover,4,Right Back
+20669.0,Yellow Card,5,Left Defensive Midfield
+21156.0,Big Miss,3,Right Midfield
+21156.0,Wasted Turnover,5,Right Midfield
+21156.0,Yellow Card,6,Right Midfield
+21212.0,Wasted Turnover,3,Right Back
+21212.0,Yellow Card,5,Right Back
+21254.0,Wasted Turnover,3,Right Back
+21254.0,Yellow Card,5,Right Back
+21311.0,Yellow Card,3,Left Wing
+21881.0,Yellow Card,5,Right Back
+22281.0,Wasted Turnover,6,Right Midfield
+22390.0,Yellow Card,3,Right Midfield
+22594.0,Wasted Turnover,5,Left Midfield
+22819.0,Wasted Turnover,3,Left Defensive Midfield
+22819.0,Yellow Card,7,Left Defensive Midfield
+23266.0,Wasted Turnover,4,Right Back
+23266.0,Yellow Card,8,Right Back
+23268.0,Wasted Turnover,3,Left Center Forward
+23416.0,Big Miss,3,Left Center Forward
+23416.0,Wasted Turnover,6,Center Forward
+23416.0,Yellow Card,3,Center Forward
+23486.0,Big Miss,3,Center Forward
+23486.0,Wasted Turnover,13,Center Forward
+23486.0,Yellow Card,3,Right Center Forward
+23488.0,Wasted Turnover,3,Left Center Midfield
+23663.0,Big Miss,3,Center Forward
+23761.0,Wasted Turnover,4,Right Wing
+23785.0,Wasted Turnover,5,Left Center Midfield
+23791.0,Wasted Turnover,6,Right Center Forward
+23800.0,Wasted Turnover,5,Right Back
+23806.0,Wasted Turnover,3,Right Defensive Midfield
+23806.0,Yellow Card,5,Right Defensive Midfield
+23816.0,Wasted Turnover,3,Left Wing
+23848.0,Wasted Turnover,7,Right Wing
+23943.0,Wasted Turnover,4,Right Wing
+23943.0,Yellow Card,3,Right Center Forward
+23974.0,Wasted Turnover,3,Right Back
+24035.0,Big Miss,6,Center Forward
+24035.0,Wasted Turnover,12,Center Forward
+24070.0,Wasted Turnover,3,Right Wing
+24070.0,Yellow Card,4,Left Wing
+24144.0,Yellow Card,3,Center Defensive Midfield
+24149.0,Wasted Turnover,3,Left Center Midfield
+24149.0,Yellow Card,6,Center Defensive Midfield
+24236.0,Wasted Turnover,3,Center Defensive Midfield
+24263.0,Yellow Card,4,Left Back
+24740.0,Wasted Turnover,4,Left Wing
+24740.0,Yellow Card,3,Left Wing
+24783.0,Yellow Card,3,Center Attacking Midfield
+24841.0,Wasted Turnover,5,Right Center Midfield
+24914.0,Big Miss,3,Left Center Midfield
+24919.0,Wasted Turnover,4,Right Back
+25003.0,Wasted Turnover,3,Right Back
+25134.0,Big Miss,3,Right Center Forward
+25134.0,Wasted Turnover,8,Right Wing
+25707.0,Yellow Card,3,Left Defensive Midfield
+25881.0,Wasted Turnover,4,Center Defensive Midfield
+25881.0,Yellow Card,6,Right Defensive Midfield
+25921.0,Wasted Turnover,3,Left Wing
+26009.0,Big Miss,6,Left Center Forward
+26009.0,Selfish Shot,3,Right Center Forward
+26009.0,Wasted Turnover,11,Left Center Forward
+26012.0,Yellow Card,3,Right Center Back
+26020.0,Yellow Card,3,Left Wing
+26107.0,Yellow Card,4,Right Center Back
+26207.0,Wasted Turnover,4,Left Center Back
+26207.0,Yellow Card,7,Left Center Back
+26288.0,Wasted Turnover,3,Right Center Forward
+26359.0,Wasted Turnover,8,Left Back
+26359.0,Yellow Card,6,Left Back
+26387.0,Wasted Turnover,3,Right Midfield
+26387.0,Yellow Card,4,Right Midfield
+26607.0,Yellow Card,4,Left Defensive Midfield
+26633.0,Yellow Card,6,Right Back
+26669.0,Wasted Turnover,3,Left Center Back
+26669.0,Yellow Card,7,Left Center Back
+26685.0,Big Miss,3,Center Forward
+26685.0,Yellow Card,4,Right Center Forward
+26690.0,Wasted Turnover,4,Center Forward
+26696.0,Big Miss,3,Left Wing
+26696.0,Wasted Turnover,7,Right Wing
+26696.0,Yellow Card,4,Center Forward
+26699.0,Wasted Turnover,4,Left Center Forward
+26791.0,Yellow Card,7,Left Center Back
+26797.0,Wasted Turnover,3,Left Wing
+26797.0,Yellow Card,3,Right Wing
+26832.0,Wasted Turnover,4,Right Midfield
+26848.0,Wasted Turnover,4,Right Defensive Midfield
+26848.0,Yellow Card,5,Right Defensive Midfield
+27109.0,Wasted Turnover,8,Center Forward
+27109.0,Yellow Card,3,Center Forward
+27122.0,Wasted Turnover,3,Left Defensive Midfield
+27122.0,Yellow Card,6,Right Center Back
+27146.0,Wasted Turnover,3,Left Back
+27148.0,Wasted Turnover,5,Left Defensive Midfield
+27239.0,Yellow Card,3,Right Center Back
+27317.0,Big Miss,3,Left Center Forward
+27317.0,Wasted Turnover,4,Left Center Forward
+27335.0,Yellow Card,3,Left Back
+27341.0,Wasted Turnover,6,Left Defensive Midfield
+27341.0,Yellow Card,3,Center Defensive Midfield
+27402.0,Yellow Card,3,Left Back
+27403.0,Yellow Card,6,Right Center Back
+27482.0,Yellow Card,4,Right Center Back
+27483.0,Wasted Turnover,4,Left Back
+27483.0,Yellow Card,7,Left Back
+27522.0,Yellow Card,4,Right Center Back
+27526.0,Yellow Card,4,Left Defensive Midfield
+28100.0,Yellow Card,3,Right Defensive Midfield
+28559.0,Wasted Turnover,5,Left Wing
+28782.0,Yellow Card,3,Right Back
+30289.0,Wasted Turnover,4,Center Forward
+30312.0,Wasted Turnover,3,Right Back
+30312.0,Yellow Card,3,Right Back
+30439.0,Big Miss,3,Left Midfield
+30439.0,Wasted Turnover,5,Left Midfield
+30486.0,Wasted Turnover,3,Left Defensive Midfield
+30551.0,Yellow Card,3,Left Defensive Midfield
+30756.0,Wasted Turnover,4,Left Wing
+30756.0,Yellow Card,3,Left Wing
+30847.0,Wasted Turnover,3,Center Attacking Midfield
+31296.0,Yellow Card,10,Left Center Back
+32480.0,Wasted Turnover,3,Right Center Back
+34558.0,Yellow Card,6,Right Defensive Midfield
+35240.0,Wasted Turnover,4,Left Wing
+36359.0,Yellow Card,3,Right Center Back
+36983.0,Wasted Turnover,6,Right Back
+38172.0,Yellow Card,3,Right Center Back
+38412.0,Yellow Card,4,Left Center Back
+38524.0,Wasted Turnover,4,Center Attacking Midfield
+38524.0,Yellow Card,4,Left Attacking Midfield
+39073.0,Yellow Card,3,Center Defensive Midfield
+40118.0,Wasted Turnover,6,Left Back
+40118.0,Yellow Card,7,Right Midfield
+40121.0,Big Miss,3,Left Center Back
+40121.0,Yellow Card,11,Right Center Back
+40123.0,Wasted Turnover,3,Left Center Back
+40123.0,Yellow Card,9,Left Center Back
+40125.0,Yellow Card,3,Left Wing
+40127.0,Wasted Turnover,7,Left Defensive Midfield
+40130.0,Wasted Turnover,3,Center Forward
+40218.0,Yellow Card,4,Left Center Back
+40459.0,Yellow Card,3,Center Defensive Midfield
+40462.0,Wasted Turnover,6,Center Attacking Midfield
+40462.0,Yellow Card,4,Center Attacking Midfield
+40463.0,Wasted Turnover,3,Right Wing
+40464.0,Wasted Turnover,5,Right Midfield
+40464.0,Yellow Card,4,Left Wing
+40467.0,Wasted Turnover,5,Right Defensive Midfield
+40467.0,Yellow Card,6,Right Defensive Midfield
+40469.0,Yellow Card,4,Left Back
+40470.0,Yellow Card,3,Left Center Back
+40474.0,Yellow Card,3,Left Center Forward
+40538.0,Wasted Turnover,3,Left Back
+40538.0,Yellow Card,3,Left Back
+42699.0,Wasted Turnover,6,Left Wing
+42700.0,Yellow Card,8,Right Center Back
+42701.0,Wasted Turnover,3,Left Back
+42900.0,Wasted Turnover,3,Right Defensive Midfield
+42900.0,Yellow Card,5,Right Defensive Midfield
+42902.0,Wasted Turnover,3,Left Midfield
+43081.0,Wasted Turnover,11,Left Midfield
+43728.0,Yellow Card,3,Right Center Back
+128704.0,Selfish Shot,3,Center Forward
+400614.0,Yellow Card,6,Left Center Back
+400620.0,Wasted Turnover,5,Left Wing

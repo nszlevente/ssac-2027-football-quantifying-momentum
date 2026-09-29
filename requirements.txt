@@ -1,0 +1,23 @@
+# Core numerical and data-analysis packages
+numpy
+pandas
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Statistical and machine-learning models
+scikit-learn
+statsmodels
+lightgbm
+shap
+
+# StatsBomb data access and utilities
+statsbombpy
+requests
+tqdm
+
+# Notebook runtime
+jupyter
+ipython
